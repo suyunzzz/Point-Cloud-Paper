@@ -30,13 +30,15 @@
    >
    > 最终结果速度非常快（因为是基于图像进行处理的），但是对于聚类的步骤，会导致对一些物体造成过分割（比如对于一些和激光束接近平行的平面，会被分割成多个物体）
 
-2.  
+2. A Fast Segmentation Method of Sparse Point Clouds ，2017
 
-3.  
+   > 对 Efficient Online Segmentation for Sparse 3D Laser Scans 的一个改进版本
 
-4.  
+3. 
 
-5.  
+4. 
+
+5. 
 
 6. 
 
